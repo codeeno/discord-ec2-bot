@@ -28,7 +28,7 @@ def describe_instance():
             {
                 'Name': 'tag:Name',
                 'Values': [
-                    'Valheim Server'
+                    SERVER_NAME
                 ]
             }
         ]
